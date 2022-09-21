@@ -1,5 +1,4 @@
 # Colab Anti-Crash Script
----
 
 This simple script prevents Google Colab from disconnecting after ~1 hour without interaction.
 
